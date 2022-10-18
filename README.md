@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @barthelemy-ehui
-- 👀 I’m interested in PHP and MySql
-- 🌱 I’m currently learning Laravel and Sql...
+- 👋 Hi, I’m @barthelemy-ehui.
+- 👀 I’m interested in PHP and MySql.
+- 🌱 I’m currently learning Laravel and Javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
